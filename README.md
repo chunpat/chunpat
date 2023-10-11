@@ -1,3 +1,7 @@
+![chunpat's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunpat&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunpat&layout=compact&theme=tokyonight)
+
 - 👋 Hi, I’m @chunpat
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
