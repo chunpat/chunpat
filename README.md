@@ -2,11 +2,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunpat&layout=compact&theme=tokyonight)
 
-- 👋 Hi, I’m @chunpat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!---
 chunpat/chunpat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
