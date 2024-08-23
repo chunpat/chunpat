@@ -4,11 +4,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [gmk mini主机](/gmk-setting.html)
+- [搭建旁路由+科学上网](/pve-add-openwrt.html)
 - [github个人首页自动展示你最近写的blog文章](/github-readme-add-post.html)
 - [避免死循环-记一次问题排查](/habit.html)
 - [Linux角色，目录权限&lpar;含实际案例&rpar;](/linux-permission.html)
-- [处理 Mysql Show Query 实际案例](/mysql-slow-log.html)
-- [PHP 单元测试 与 Gitlab-CI](/phpunit-test.html)
 <!-- BLOG-POST-LIST:END -->
 
 
